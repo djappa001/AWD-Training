@@ -1,10 +1,10 @@
-package esprit.candidat;
+package com.esprit.microservice.jobservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CandidatApplicationTests {
+class JobServiceApplicationTests {
 
     @Test
     void contextLoads() {
